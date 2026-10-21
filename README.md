@@ -1,6 +1,6 @@
 # Ml-em (낼-름)
 
-> 2026 Bridge 게임잼 (2026.7.31 ~ 2026.8.2)
+> 2026 브릿지 게임잼 (2026.7.31 ~ 2026.8.2)
 
 <p align="center">
   <img src="docs/images/thumbnail.gif" alt="Ml-em 플레이 화면" width="640">
